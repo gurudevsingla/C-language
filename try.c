@@ -23,7 +23,6 @@ int main()
                 case 'E' : exit(0);
                default : printf("Press an arrow key\n");
             }
-            fflush(stdin);
             goto z;
             return 0;
 }
